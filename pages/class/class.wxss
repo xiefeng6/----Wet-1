@@ -4,11 +4,11 @@
   height: 50vh;
   display: flex;
   flex-direction: row;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
 }
 .a{
   width: 45vw;
-  height: 40vh;
+  height: 25vh;
 }
 .r1{
   width: 40vw;
