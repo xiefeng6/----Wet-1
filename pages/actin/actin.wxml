@@ -1,2 +1,4 @@
 <!--pages/actin/actin.wxml-->
-<text>pages/actin/actin.wxml</text>
+<view>
+  活动详情页
+</view>
