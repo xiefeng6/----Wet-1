@@ -1,6 +1,6 @@
 <!--pages/my/my.wxml-->
 <view>
-  我的cdsscs
+  我的
 </view>
 
 <button bindtap='onLi'>  我的列表 </button>
