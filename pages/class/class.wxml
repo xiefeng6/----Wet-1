@@ -1,7 +1,7 @@
 <!--pages/class/class.wxml-->
 <view>
   超市分类
-  稳稳地无
+  稳稳地无111
 </view>
 
 <button  bindtap='onGoods'  data-id='{{121212}}' > 商品详情 </button>
