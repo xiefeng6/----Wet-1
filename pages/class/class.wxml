@@ -1,12 +1,6 @@
-<<<<<<< Updated upstream
 <!-- class.wxml -->
 <view class="all">
   <view class="title">长安街公益超市1</view>
-=======
-<!--pages/class/class.wxml-->
-<view class="all">
-  <view class="title">长安街公益超市</view>
->>>>>>> Stashed changes
   <!-- 搜索框 -->
   <view class="searchbar">
     <input class="searchbarInner" placeholder="搜索|志愿"> </input>
@@ -22,21 +16,15 @@
      </view>
       <!-- 右侧栏 -->
       <view class="rightbar">
-          <view class="r1"></view>
+          <view class="r1">
+              <view class="r2"></view>
+              <view class="r3">原生态农家，新鲜小白菜，1000g装</view>
+          </view>          
       </view>
   </view>
 
 
   <!-- <button bindtap="onGoods">商品详情</button> -->
 </view>
-<<<<<<< Updated upstream
 
 
-=======
-<!-- <view>
-  分类测试  11111
-</view>
-<view class="box" >
-    <view class="a" wx:for="{{4}}"><button class="r1" bindtap='onGoods'  data-id='{{121212}}' > 商品详情 </button></view>
-</view> -->
->>>>>>> Stashed changes

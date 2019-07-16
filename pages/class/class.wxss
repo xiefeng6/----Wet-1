@@ -95,7 +95,6 @@ letter-spacing:1px;
 margin-top: 2px;
 margin-left: 4.2vh;
 }
-<<<<<<< Updated upstream
 /* 右侧商品栏 */
 .rightbar{
   width: 70vw;
@@ -105,8 +104,10 @@ margin-left: 4.2vh;
   flex-direction: row;
   flex-wrap: wrap;
 }
-=======
->>>>>>> Stashed changes
+.r1{
+
+}
+
 
 
 
