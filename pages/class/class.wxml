@@ -1,7 +1,7 @@
 <!--pages/class/class.wxml-->
 <view>
-  分类测试  
+  分类测试  11111
 </view>
-<view class="box" wx:for="{{1}}">
-    <view class=""><button class="r1" bindtap='onGoods'  data-id='{{121212}}' > 商品详情 </button></view>
+<view class="box" >
+    <view class="a" wx:for="{{2}}"><button class="r1" bindtap='onGoods'  data-id='{{121212}}' > 商品详情 </button></view>
 </view>

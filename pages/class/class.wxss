@@ -6,9 +6,13 @@
   flex-direction: row;
   /* flex-wrap: wrap; */
 }
+.a{
+  width: 45vw;
+  height: 40vh;
+}
 .r1{
-  width: 20vw;
-  height: 20vw;
+  width: 40vw;
+  height: 30vw;
   font-size: 3.2vh;
   background-color: blue;
   margin-left: 10px;
