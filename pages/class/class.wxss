@@ -1,4 +1,11 @@
 /* pages/class/class.wxss */
+.box{
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+}
 .r1{
   width: 20vw;
   height: 20vw;
