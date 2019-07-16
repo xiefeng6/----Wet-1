@@ -2,3 +2,6 @@
 <view>
 首页
 </view>
+
+
+<button bindtap='onAction' >  查看活动 </button>
