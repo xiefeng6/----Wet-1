@@ -1,6 +1,6 @@
 <!-- class.wxml -->
 <view class="all">
-  <view class="title">长安街公益超市112121</view>
+  <view class="title">长安街公益超市</view>
   <!-- 搜索框 -->
   <view class="searchbar">
     <input class="searchbarInner" placeholder="搜索|志愿"> </input>
