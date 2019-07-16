@@ -1,6 +1,7 @@
 <!--pages/class/class.wxml-->
 <view>
-  超市分类112
+  超市分类
+  稳稳地无
 </view>
 
 <button  bindtap='onGoods'  data-id='{{121212}}' > 商品详情 </button>
