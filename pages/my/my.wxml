@@ -1,6 +1,6 @@
 <!--pages/my/my.wxml-->
 <view>
-  我的
+  我的陈翔陈翔陈翔
 </view>
 
 <button bindtap='onLi'>  我的列表 </button>
